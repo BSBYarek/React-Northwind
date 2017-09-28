@@ -1,0 +1,9 @@
+/packages
+/Northwind.bak
+/NORTHWND.MDF
+/NORTHWND_log.ldf
+/ReactOnNorthwind/obj
+/ReactOnNorthwind/bin
+/ReactOnNorthwind.Tests/bin/Debug
+/ReactOnNorthwind.Tests/obj/Debug
+/.vs/ReactOnNorthwind/v14/*.suo
